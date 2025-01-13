@@ -21,4 +21,4 @@ python -m flask run
 ```
 
 
-THEN GO TO localhost:5000
+THEN GO TO http://localhost:5000
